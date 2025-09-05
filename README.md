@@ -2,4 +2,6 @@
  Hello Word!
  Aqui guardo alguns repositórios de estudos e projeto!
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MaluWhoo)](https://github.com/MaluWhoo/github-readme-stats)
+
+<!-- FICHA DE STATUS -->
+[dracula_repo]: https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&cache_seconds=86400&theme=dracula
