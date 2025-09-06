@@ -9,6 +9,7 @@
 <div>
  
 [![](https://img.shields.io/badge/linkedin-0a66c2)](https://www.linkedin.com/in/maria-luiza-lima-05911b298/)
+[![](https://web.badges.world/badges/operated/xp.gif)](https://fantasmasexistemaqui.blogspot.com/)
  
 </div>
 
