@@ -10,3 +10,5 @@
 [![](https://img.shields.io/badge/linkedin-0a66c2)](https://www.linkedin.com/in/maria-luiza-lima-05911b298/)
 
 </div>
+
+![Snake animaton](https://github.com/MaluWhoo/MaluWhoo/blob/output/github-contribution-grid-snake.sgv)
