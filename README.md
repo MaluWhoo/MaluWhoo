@@ -9,8 +9,6 @@
 <div>
  
 [![](https://img.shields.io/badge/linkedin-0a66c2)](https://www.linkedin.com/in/maria-luiza-lima-05911b298/)
-
-[![](https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)
  
 </div>
 
