@@ -22,10 +22,11 @@
 
 <!-- BADGES -->
 
-[![hippo](assets/wwwbutton.gif)](https://anlucas.neocities.org/wwwbutton.gif) 
-[![hippo](assets/anipan.gif)](https://spiritcellar.neocities.org/images/badges/anipan.gif)
+[![hippo](https://anlucas.neocities.org/wwwbutton.gif)](https://anlucas.neocities.org/wwwbutton.gif) 
+[![hippo](https://spiritcellar.neocities.org/images/badges/anipan.gif)](https://spiritcellar.neocities.org/images/badges/anipan.gif)
 [![](https://spiritcellar.neocities.org/images/badges/learn_html.gif)](https://spiritcellar.neocities.org/images/badges/learn_html.gif)
 [![](https://spiritcellar.neocities.org/images/badges/StardewValley.gif)](https://spiritcellar.neocities.org/images/badges/StardewValley.gif)
+[![](https://jack-dawlia.neocities.org/image/pink-lace-programmer.gif)](https://jack-dawlia.neocities.org/image/pink-lace-programmer.gif)
  
 </div>
 
