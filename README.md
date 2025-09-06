@@ -24,6 +24,8 @@
 
 [![hippo](assets/wwwbutton.gif)](https://anlucas.neocities.org/wwwbutton.gif) 
 [![hippo](assets/anipan.gif)](https://spiritcellar.neocities.org/images/badges/anipan.gif)
+[![](https://spiritcellar.neocities.org/images/badges/learn_html.gif)](https://spiritcellar.neocities.org/images/badges/learn_html.gif)
+[![](https://spiritcellar.neocities.org/images/badges/StardewValley.gif)](https://spiritcellar.neocities.org/images/badges/StardewValley.gif)
  
 </div>
 
