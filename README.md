@@ -19,7 +19,8 @@
 
 <div>
 
-[![](https://anlucas.neocities.org/wwwbutton.gif)](https://www.instagram.com/the_littlebraiin/)
+![URL](https://anlucas.neocities.org/wwwbutton.gif) 
+![URL](https://spiritcellar.neocities.org/images/badges/anipan.gif) 
  
 </div>
 
