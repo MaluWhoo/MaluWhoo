@@ -10,9 +10,16 @@
  
 [![](https://web.badges.world/badges/websites/sticker_linkedin.gif)](https://www.linkedin.com/in/maria-luiza-lima-05911b298/)
 [![](https://web.badges.world/badges/directories/globe_blogs.gif)](https://fantasmasexistemaqui.blogspot.com/)
-[![](https://web.badges.world/badges/operated/xp.gif)]()
+[![](https://web.badges.world/badges/operated/xp.gif)](https://xp.quenq.com/)
 [![](https://web.badges.world/badges/other/ilovemycat.gif)]()
 [![](https://web.badges.world/badges/humor/clickherebtn.gif)](https://www.instagram.com/the_littlebraiin/)
+ 
+</div>
+
+
+<div>
+
+[![](https://anlucas.neocities.org/wwwbutton.gif)](https://www.instagram.com/the_littlebraiin/)
  
 </div>
 
