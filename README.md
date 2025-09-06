@@ -1,9 +1,5 @@
 #  Malu
 
-<p align="">
-  Hello World! Aqui guardo alguns repositórios de estudos e projeto!
-</p>
-
 <!-- Typing SVG -->
 <p align="">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&pause=1000&color=2581EC&width=435&lines=So+Long%2C+and+Thanks+for+All+the+Fish">
