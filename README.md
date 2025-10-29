@@ -5,7 +5,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&pause=1000&color=2581EC&width=435&lines=So+Long%2C+and+Thanks+for+All+the+Fish">
 </p>
 
-
+<!-- BADGES WITH SOME LINKS -->
 <p align="">
   <a href="https://www.linkedin.com/in/maria-luiza-lima-05911b298/">
     <img src="https://web.badges.world/badges/websites/sticker_linkedin.gif">
