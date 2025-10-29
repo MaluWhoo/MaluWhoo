@@ -34,6 +34,7 @@
   </picture>
 </p> <!-- _generated with [Platane/snk](https://github.com/Platane/snk)_ -->
 
+<!-- BADGES -->
 <p align="center">
   <a href="https://anlucas.neocities.org/wwwbutton.gif">
     <img src="https://anlucas.neocities.org/wwwbutton.gif">
