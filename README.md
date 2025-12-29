@@ -2,6 +2,8 @@
 
 I'm Malu, a Brazilian game development student.
 
+I enjoy solving problems and drawing :)
+
 <!-- Typing SVG -->
 <p align="">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=40&size=16&pause=1000&color=2581EC&width=435&lines=So+Long%2C+and+Thanks+for+All+the+Fish">
