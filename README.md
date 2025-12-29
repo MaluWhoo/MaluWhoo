@@ -1,4 +1,6 @@
-#  Malu
+#  Hello, Word!
+
+I'm Malu, a Braziliana game development student.
 
 <!-- Typing SVG -->
 <p align="">
