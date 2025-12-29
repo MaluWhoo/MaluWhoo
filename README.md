@@ -7,25 +7,6 @@ I'm Malu, a Brazilian game development student.
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&pause=1000&color=2581EC&width=435&lines=So+Long%2C+and+Thanks+for+All+the+Fish">
 </p>
 
-<!-- BADGES WITH SOME LINKS -->
-<p align="">
-  <a href="https://www.linkedin.com/in/maria-luiza-lima-05911b298/">
-    <img src="https://web.badges.world/badges/websites/sticker_linkedin.gif">
-  </a>
-  <a href="https://fantasmasexistemaqui.blogspot.com/">
-    <img src="https://web.badges.world/badges/directories/globe_blogs.gif">
-  </a>
-  <a href="https://xp.quenq.com/">
-    <img src="https://web.badges.world/badges/operated/xp.gif">
-  </a>
-  <a href="#">
-    <img src="https://web.badges.world/badges/other/ilovemycat.gif">
-  </a>
-  <a href="https://www.instagram.com/the_littlebraiin/">
-    <img src="https://web.badges.world/badges/humor/clickherebtn.gif">
-  </a>
-</p>
-
 ##
 
 <p align="center">
@@ -37,6 +18,7 @@ I'm Malu, a Brazilian game development student.
 </p> <!-- _generated with [Platane/snk](https://github.com/Platane/snk)_ -->
 
 <!-- BADGES -->
+<!-- 
 <p align="center">
   <a href="https://anlucas.neocities.org/wwwbutton.gif">
     <img src="https://anlucas.neocities.org/wwwbutton.gif">
@@ -52,6 +34,26 @@ I'm Malu, a Brazilian game development student.
   </a>
   <a href="https://jack-dawlia.neocities.org/image/pink-lace-programmer.gif">
     <img src="https://jack-dawlia.neocities.org/image/pink-lace-programmer.gif">
+  </a>
+</p>
+ -->
+
+ <!-- BADGES WITH SOME LINKS -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/maria-luiza-lima-05911b298/">
+    <img src="https://web.badges.world/badges/websites/sticker_linkedin.gif">
+  </a>
+  <a href="https://fantasmasexistemaqui.blogspot.com/">
+    <img src="https://web.badges.world/badges/directories/globe_blogs.gif">
+  </a>
+  <a href="https://xp.quenq.com/">
+    <img src="https://web.badges.world/badges/operated/xp.gif">
+  </a>
+  <a href="#">
+    <img src="https://web.badges.world/badges/other/ilovemycat.gif">
+  </a>
+  <a href="https://www.instagram.com/the_littlebraiin/">
+    <img src="https://web.badges.world/badges/humor/clickherebtn.gif">
   </a>
 </p>
 
