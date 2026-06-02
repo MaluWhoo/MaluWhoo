@@ -1,6 +1,6 @@
 #  Hello, Word!
 
-I'm Malu, a Brazilian game development student.
+I'm Malu, a Brazilian Software Engineering and Game Development student.
 
 I enjoy solving problems and drawing :)
 
