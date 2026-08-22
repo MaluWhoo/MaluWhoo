@@ -55,7 +55,7 @@ Features include:
 - Message board
 - PDF report generation
 
-🔗 [View repository](#)
+🔗 [View repository](https://github.com/MaluWhoo/condominium-management-system)
 
 ---
 <!--
