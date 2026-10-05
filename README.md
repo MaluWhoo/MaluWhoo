@@ -106,19 +106,6 @@ I'm also interested in the intersection between **technology, creativity and gam
 
 ---
 
-<!-- ## 📫 Find me -->
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/maria-luiza-lima-05911b298/">
-    <img src="https://web.badges.world/badges/websites/sticker_linkedin.gif">
-  </a>
-  <a href="https://github.com/MaluWhoo">
-    <img src="https://img.shields.io/badge/GitHub-MaluWhoo-181717?style=flat-square&logo=github">
-  </a>
-</p>
-
----
-
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MaluWhoo/MaluWhoo/output/github-contribution-grid-snake-dark.svg">
