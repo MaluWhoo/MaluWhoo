@@ -11,6 +11,11 @@ I'm interested in **software development, problem solving and building things th
 
 Currently looking for an **internship in Software Development**, especially in **C#/.NET, Back-End or Full Stack**.
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/marialuizalimavilasboas/?isSelfProfile=true"><img src="assets/links/linkedin.svg" alt="LinkedIn"></a>
+  <a href="https://github.com/MaluWhoo"><img src="assets/links/github.svg" alt="GitHub"></a>
+</p>
+
 ---
 
 ## 🛠️ Technologies & Tools
@@ -101,7 +106,7 @@ I'm also interested in the intersection between **technology, creativity and gam
 
 ---
 
-## 📫 Find me
+<!-- ## 📫 Find me -->
 
 <p align="center">
   <a href="https://www.linkedin.com/in/maria-luiza-lima-05911b298/">
