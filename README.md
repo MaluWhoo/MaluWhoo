@@ -1,7 +1,7 @@
 # Hello, Word! 👋
 
 I'm Malu, a Brazilian Software Engineering and Game Development student.
-
+<!--
 💻 Currently focused on **C#/.NET and Back-End Development**  
 🎓 Software Engineering — UNICV  
 🎮 Game Development — FATEC  
@@ -10,7 +10,7 @@ I'm Malu, a Brazilian Software Engineering and Game Development student.
 I'm interested in **software development, problem solving and building things that actually work**.
 
 Currently looking for an **internship in Software Development**, especially in **C#/.NET, Back-End or Full Stack**.
-
+-->
 <p align="center">
   <a href="https://www.linkedin.com/in/marialuizalimavilasboas/?isSelfProfile=true"><img src="assets/links/linkedin.svg" alt="LinkedIn"></a>
   <a href="https://github.com/MaluWhoo"><img src="assets/links/github.svg" alt="GitHub"></a>
@@ -42,7 +42,7 @@ Currently looking for an **internship in Software Development**, especially in *
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 ---
-
+<!--
 ## 🚀 Featured Projects
 
 ### 🏢 Condominium Management System
@@ -63,7 +63,7 @@ Features include:
 🔗 [View repository](https://github.com/MaluWhoo/condominium-management-system)
 
 ---
-<!--
+
 ### 📚 Library Management System
 
 **C# · Windows Forms · SQL Server · LocalDB**
