@@ -76,7 +76,7 @@ Web application developed with ASP.NET Core MVC for condominium and resident man
 </td>
 <td width="50%" valign="top">
 
-#### 📝 [Task Manager (Angular)](https://github.com/MaluWhoo)
+#### 📝 [Task Manager (Angular)](https://github.com/MaluWhoo/Lista-de-Tarefas-em-Angular)
 
 Interactive web application for daily task management. Developed individually applying fundamental concepts of components, data binding, and validations in Angular.
 
