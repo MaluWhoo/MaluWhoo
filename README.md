@@ -4,7 +4,7 @@
 
 <br/>
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=450&size=16&duration=3800&pause=800&color=C587A7&center=true&width=435&lines=%E2%98%86%CB%96%C2%B0+Software+Engineering+Student_;%E2%98%86%CB%96%C2%B0+.NET+Back-End+Developer_;%E2%98%86%CB%96%C2%B0+Game+Development+Student_)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=450&size=16&duration=3800&pause=800&color=C587A7&center=true&width=435&lines=%E2%98%86%CB%96%C2%B0+Software+Engineering+Student_;%E2%98%86%CB%96%C2%B0+.NET+Back-End+Developer_;%E2%98%86%CB%96%C2%B0+Game+Developer+Student_)](https://git.io/typing-svg)
 
 <p align="center">
   <a href="https://www.linkedin.com/in/marialuizalimavilasboas/?isSelfProfile=true"><img src="assets/links/linkedin.svg" alt="LinkedIn"></a>
@@ -32,61 +32,41 @@
 
 </br>
 
+<br/>
 
-
-<!--
-
+<div align="left">
+  
 ## 🚀 Featured Projects
 
-### 🏢 Condominium Management System
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| **[Condominium Management System](https://github.com/MaluWhoo/condominium-management-system)** | Web application for condominium and resident management with CRUD and PDF reports. | `C#` `ASP.NET Core` `MVC` |
+| **[Library Management System](https://github.com/MaluWhoo/condominium-management-system)** | Desktop application for library control, automated loans, and search. | `C#` `Windows Forms` `SQL Server` |
 
-**C# · ASP.NET Core MVC · CRUD · JSON · PDF**
+</div>
 
-Web application developed with ASP.NET Core MVC for condominium management.
+<br/>
 
-Features include:
+<img src="https://capsule-render.vercel.app/api?type=rect&color=C587A7&height=2&width=100%"/>
 
-- Condominium and resident registration
-- CRUD operations
-- JSON data persistence
-- Parking space lottery
-- Message board
-- PDF report generation
+<br/>
+<!--
+<div align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=MaluWhoo&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=FFB3DE&icon_color=C587A7&text_color=ffffff" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaluWhoo&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=FFB3DE&text_color=ffffff" />
+</div>
 
-🔗 [View repository](https://github.com/MaluWhoo/condominium-management-system)
+<br/>
 
----
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MaluWhoo/MaluWhoo/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MaluWhoo/MaluWhoo/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/MaluWhoo/MaluWhoo/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
 
-### 📚 Library Management System
-
-**C# · Windows Forms · SQL Server · LocalDB**
-
-Desktop application developed in C# for library management.
-
-Features include:
-
-- Book and user registration
-- Book search
-- Loan and return management
-- Automatic availability status
-- Loan reports
-
-🔗 [View repository](#)
-
----
--->
-<!-- ## 🌱 Currently Learning
-
-- Back-End development with .NET
-- ASP.NET Core
-- Software architecture
-- Databases
-- Git & GitHub
-- Web development
-
----
-
-
+<!--
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MaluWhoo/MaluWhoo/output/github-contribution-grid-snake-dark.svg">
