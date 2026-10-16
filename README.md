@@ -51,7 +51,7 @@ Collaborative e-commerce application developed in Angular during the WoMakersCod
 </td>
 <td width="50%" valign="top">
 
-#### ⚙️ [Task Manager API (Squad — In Progress 🚧)](https://github.com/brucarlota/dvteam-api)
+#### ⚙️ [Task Manager API (Squad)](https://github.com/brucarlota/dvteam-api)
 
 Robust RESTful API built in .NET with layered architecture (Controller, Service, Repository), Entity Framework, Migrations, and a strong focus on Back-End best practices.
 
